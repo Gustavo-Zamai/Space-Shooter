@@ -44,9 +44,9 @@ Caso queira testar e atirar em alguns aliens, teste o projeto clicando no link a
 ---
 ## 🎮 Controles
 
-- 🔛Space : Shoot
+- 🔛 Space : Shoot
 - ⬆️ Arrow up : Move up 
-- ⬇️Arrow down : Move down
+- ⬇️ Arrow down : Move down
 
 ---
 
