@@ -50,30 +50,6 @@ function moveDown() {
         ship.style.top = `${position}px`;
     }
 }
-/*
-//GO RIGHT
-function moveLeft() {
-    let leftPosition = getComputedStyle(ship).getPropertyValue('left');
-    if(leftPosition === "0px"){
-        return
-    } else {
-        let position = parseInt(leftPosition);
-        position -= 30;
-        ship.style.left = `${position}px`;
-    }
-}*/
-
-//GO RIGHT, I DONT KNOW WHY
-function moveLeft() {
-    let leftPosition = getComputedStyle(ship).getPropertyValue('left');
-    if(leftPosition === "0px"){
-        return
-    } else {
-        let position = parseInt(leftPosition);
-        position += 30;
-        ship.style.left = `${position}px`;
-    }
-}
 
 //FIRE
 function fireLaser() {
