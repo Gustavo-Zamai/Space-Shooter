@@ -11,7 +11,7 @@ body {
 }
 
 #gameArea {
-    background: black url(image/sky.png) no-repeat center/cover;
+    background: black url(image/sky.png);
     height: 100%;
     width: 100%;
 }
@@ -23,12 +23,17 @@ body {
     top: 0px;
 }
 
+
 .start-button {
     position: relative;
     color: rgb(230, 93, 3);
     top: 9rem;
     left: 680px;
     cursor: pointer;
+}
+
+.start-button:hover{
+    color: rgba(255, 72, 0, 0.5);
 }
 
 .player {
