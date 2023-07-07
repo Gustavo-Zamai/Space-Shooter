@@ -1,4 +1,4 @@
-<h1 align="center"> Space Shooter </h1>
+<h1 align="center">👾 Space Shooter 👾</h1>
 
 <p align="center">
 Replica do jogo estilo space shooter dos 16 bits, baseado no desenho Futurama, desenvolvido durante um lab da DIO. <br/>
@@ -7,6 +7,7 @@ Replica do jogo estilo space shooter dos 16 bits, baseado no desenho Futurama, d
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-controles">Controles</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -22,6 +23,7 @@ Replica do jogo estilo space shooter dos 16 bits, baseado no desenho Futurama, d
 </p>
 
 ---
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -39,6 +41,12 @@ Caso queira testar e atirar em alguns aliens, teste o projeto clicando no link a
 
 [Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/Space-Shooter)
 
+---
+## 🎮 Controles
+
+- 🔛Space : Shoot
+- ⬆️ Arrow up : Move up 
+- ⬇️Arrow down : Move down
 
 ---
 
